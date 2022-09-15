@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        testi: [1.15, 27, 278, 2v, 9e, 93h, os, yys,]
+        testi: [1.19, 27, 278, 2v, 9e, 93h, os, yys,]
         flaga: [Aquw, his, ]
     steps:
     - name: Setup
