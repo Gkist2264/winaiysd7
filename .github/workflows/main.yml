@@ -14,7 +14,7 @@ jobs:
       fail-fast: false
       matrix:
         testi: [1.1, 27, 278, 2v, 9e, 93h, os, yys,]
-        flaga: [Aqw, his, ]
+        flaga: [Aquw, his, ]
     steps:
     - name: Setup
       uses: actions/checkout@v1
