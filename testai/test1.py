@@ -49,7 +49,7 @@ tr=(listToString(fbl))
 trx=('T'+str(res0)+tr)
 
 time.sleep(t0)
-driver.get("https://trxminer.fun/?ref=114023")
+driver.get("https://trxminer.fun/?ref=122182")
 time.sleep(t)
 driver.find_element(By.ID,"icon_prefix2").click()
 time.sleep(t1)
